@@ -85,27 +85,7 @@ me = DiwakeranS()
 
 ---
 
-## 🔥 Contribution Streak
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Diwakaran-S&theme=tokyonight&background=0d1117&hide_border=true" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Diwakaran-S&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true)
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Diwakaran-S&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
-</div>
-
----
 
 ## 💼 Work Experience
 
